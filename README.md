@@ -1,4 +1,4 @@
-# Projeto--Aprendizagem-ModuloIII-Dio-Javascrip
+# Projeto-Aprendizagem-ModuloIII-Dio-Javascrip
 
 O JavaScript é uma linguagem muito versátil. Por isso, os desenvolvedores a escolhem como  uma de suas linguagens preferidas na hora de desenvolver aplicações web .Ele funciona como uma extensão do código HTML, sendo ideal para quem decide entrar no mundo do desenvolvimento web e quer aprender as bases da programação.
 
