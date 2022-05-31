@@ -1,0 +1,8 @@
+# Tutoriais
+
+
+https://blog.betrybe.com/javascript/
+
+## Video
+
+https://www.youtube.com/watch?v=Ptbk2af68e8
